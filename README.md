@@ -1,1 +1,1 @@
-# Hybrid encryption- This project uses the concept of hybrid encryption, where AES and ECDH encryption algorithm are used for securing online transaction vis double encryption. This is used in both client and server side.
+This project uses the concept of hybrid encryption, where AES and ECDH encryption algorithm are used for securing online transaction vis double encryption. This is used in both client and server side.
